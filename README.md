@@ -18,7 +18,7 @@ A simple bash script to automatically download and install [speedtest-go](https:
 ## Usage
 
 ```bash
-wget https://raw.githubusercontent.com/ClassicDarkPack/YOUR-REPO-NAME/main/install-speedtest-go.sh
+wget https://raw.githubusercontent.com/ClassicDarkPack/speedtest-go-installer/main/install-speedtest-go.sh
 chmod +x install-speedtest-go.sh
 sudo ./install-speedtest-go.sh
 ```
